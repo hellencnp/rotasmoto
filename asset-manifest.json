@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/rotasmoto/static/css/main.15a8cf48.chunk.css",
+    "main.js": "/rotasmoto/static/js/main.82218122.chunk.js",
+    "main.js.map": "/rotasmoto/static/js/main.82218122.chunk.js.map",
+    "runtime-main.js": "/rotasmoto/static/js/runtime-main.8879568c.js",
+    "runtime-main.js.map": "/rotasmoto/static/js/runtime-main.8879568c.js.map",
+    "static/js/2.a65a49b8.chunk.js": "/rotasmoto/static/js/2.a65a49b8.chunk.js",
+    "static/js/2.a65a49b8.chunk.js.map": "/rotasmoto/static/js/2.a65a49b8.chunk.js.map",
+    "index.html": "/rotasmoto/index.html",
+    "static/css/main.15a8cf48.chunk.css.map": "/rotasmoto/static/css/main.15a8cf48.chunk.css.map",
+    "static/js/2.a65a49b8.chunk.js.LICENSE.txt": "/rotasmoto/static/js/2.a65a49b8.chunk.js.LICENSE.txt",
+    "static/media/biz.2a8698d5.png": "/rotasmoto/static/media/biz.2a8698d5.png",
+    "static/media/carenagem.26731998.png": "/rotasmoto/static/media/carenagem.26731998.png",
+    "static/media/city.faa57230.png": "/rotasmoto/static/media/city.faa57230.png",
+    "static/media/fan.741d3a15.png": "/rotasmoto/static/media/fan.741d3a15.png",
+    "static/media/freio.53c61e9b.png": "/rotasmoto/static/media/freio.53c61e9b.png",
+    "static/media/harley.64c367d2.png": "/rotasmoto/static/media/harley.64c367d2.png",
+    "static/media/honda.f3d757a2.png": "/rotasmoto/static/media/honda.f3d757a2.png",
+    "static/media/inicio.1b4bce87.png": "/rotasmoto/static/media/inicio.1b4bce87.png",
+    "static/media/lambretta.4f456629.png": "/rotasmoto/static/media/lambretta.4f456629.png",
+    "static/media/offhoad.3ce54ebf.png": "/rotasmoto/static/media/offhoad.3ce54ebf.png",
+    "static/media/painel.26a300e3.png": "/rotasmoto/static/media/painel.26a300e3.png",
+    "static/media/pop.010468f7.png": "/rotasmoto/static/media/pop.010468f7.png",
+    "static/media/rodas.b01b95fd.png": "/rotasmoto/static/media/rodas.b01b95fd.png",
+    "static/media/scooter.a0e8e2fb.png": "/rotasmoto/static/media/scooter.a0e8e2fb.png",
+    "static/media/sport.6abd9ba4.png": "/rotasmoto/static/media/sport.6abd9ba4.png",
+    "static/media/suzuki.b98f3a03.png": "/rotasmoto/static/media/suzuki.b98f3a03.png",
+    "static/media/tanque.d18b8588.png": "/rotasmoto/static/media/tanque.d18b8588.png",
+    "static/media/titan.234d5ee3.png": "/rotasmoto/static/media/titan.234d5ee3.png",
+    "static/media/trail.f20cc9f5.png": "/rotasmoto/static/media/trail.f20cc9f5.png",
+    "static/media/yamaha.06621cb7.png": "/rotasmoto/static/media/yamaha.06621cb7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8879568c.js",
+    "static/js/2.a65a49b8.chunk.js",
+    "static/css/main.15a8cf48.chunk.css",
+    "static/js/main.82218122.chunk.js"
+  ]
+}
