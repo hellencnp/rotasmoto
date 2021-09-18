@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hellencnp.github.io/projetorotas",
-  "name": "projetorotas",
+  "homepage": "https://hellencnp.github.io/rotasmoto",
+  "name": "rotasmoto",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
